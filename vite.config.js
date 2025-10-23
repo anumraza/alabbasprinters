@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(), // <--- ADD THIS LINE
   ],
-  base: '/alabbasprinters/',
+  base: "/",
 });
