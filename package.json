@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    // 👇️ ADD THESE TWO LINES
+    
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -31,7 +31,7 @@
     "globals": "^16.4.0",
     "tailwindcss": "^4.1.16",
     "vite": "^7.1.7",
-    // 👇️ ADD THIS LINE
+    
     "gh-pages": "^6.1.1" 
   }
 }
