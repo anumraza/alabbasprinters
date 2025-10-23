@@ -5,7 +5,7 @@ import MotionDiv from './common/MotionDiv';
 
 // Import all technology images dynamically or individually
 // For simplicity and direct path usage, we'll construct the path
-const getTechImageUrl = (imageName) => `/src/assets/images/${imageName}`;
+const getTechImageUrl = (imageName) => `/${imageName}`;
 
 
 const Technology = () => {

@@ -20,7 +20,7 @@ const Portfolio = () => (
                         {/* Image Placeholder */}
                         <div
                             className="h-full w-full bg-gray-700 transition-transform duration-500 group-hover:scale-110"
-                            style={{ backgroundImage: `url(/src/assets/images/${item.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
+                            style={{ backgroundImage: `url(${item.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
                         >
                             <div className="flex h-full items-center justify-center text-gray-400 text-lg">
 
