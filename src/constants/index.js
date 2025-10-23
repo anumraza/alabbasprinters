@@ -13,17 +13,17 @@ import { MdOutlineSecurity } from "react-icons/md";
 // CRITICAL FIX: Image Imports for Vite/Deployment (Images in src/assets/images/)
 // If your file names have different casing (e.g., 11.JPG), adjust the imports above.
 // =======================================================================
-import img11 from "../assets/images/11.jpg";
-import img32 from "../assets/images/32.jpg";
-import img14 from "../assets/images/14.jpg";
-import img20 from "../assets/images/20.jpg";
-import img40 from "../assets/images/40.jpg";
-import img10 from "../assets/images/10.jpg";
-import img27 from "../assets/images/27.jpg";
-import img34 from "../assets/images/34.jpg";
-import img31 from "../assets/images/31.jpg";
-import img25 from "../assets/images/25.jpg";
-import img39 from "../assets/images/39.jpg";
+import img11 from "../assets/images/11.JPG";
+import img32 from "../assets/images/32.JPG";
+import img14 from "../assets/images/14.JPG";
+import img20 from "../assets/images/20.JPG";
+import img40 from "../assets/images/40.JPG";
+import img10 from "../assets/images/10.JPG";
+import img27 from "../assets/images/27.JPG";
+import img34 from "../assets/images/34.JPG";
+import img31 from "../assets/images/31.JPG";
+import img25 from "../assets/images/25.JPG";
+import img39 from "../assets/images/39.JPG";
 
 // NOTE: Add an import for 'contact_map_screenshot.png' if it's used in a component
 // import mapScreenshot from '../assets/images/contact_map_screenshot.png';

@@ -20,7 +20,7 @@ const About = () => (
             {/* Placeholder for About Image */}
             <div
                 className="h-96 w-full rounded-lg bg-gray-800 shadow-xl"
-                style={{ backgroundImage: "url('/src/assets/images/16.jpg')", backgroundSize: 'cover', backgroundPosition: 'center' }}
+                style={{ backgroundImage: "url('/src/assets/images/16.JPG')", backgroundSize: 'cover', backgroundPosition: 'center' }}
             >
                 <div className="flex h-full items-center justify-center text-gray-500 text-xl italic">
 
